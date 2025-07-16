@@ -35,5 +35,15 @@
 
 
 
+## ✨ GitHub Profile Overview
+
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadaShoukry&layout=compact&langs_count=8&theme=github_dark)
+
+### 📈 GitHub Stats
+![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadaShoukry&show_icons=true&theme=github_dark)
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=NadaShoukry&theme=onedark)
 
 
