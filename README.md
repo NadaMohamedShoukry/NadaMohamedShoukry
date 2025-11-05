@@ -6,7 +6,7 @@
 </h3>
 
 # 💫 About Me:
-<br>- 🎓 I'm a 2024 Computer Science graduate from the Faculty of Computers and Artificial Intelligence, Cairo University. <br>- 👨‍💻 As a passionate frontend developer, I’m always learning, building, and exploring new technologies—especially within the React and React Native ecosystems.<br>- 🚀 I enjoy transforming ideas into interactive, user-friendly interfaces and writing clean, maintainable code.<br>- 📚 I'm continuously improving my skills in modern frontend tools such as React, React Native (Expo), TypeScript, Tailwind CSS, Redux Toolkit, and React Query.<br>- 🌱 Currently, I’m working on real-world projects to strengthen my portfolio and deepen my understanding of scalable frontend architectures.<br>- 🤝 I'm always open to collaborating on interesting projects or internship opportunities to grow as a developer.
+<br>- 🎓 I'm a 2024 Computer Science graduate from the Faculty of Computers and Artificial Intelligence, Cairo University. <br>- 👨‍💻 As a passionate frontend developer, I’m always learning, building, and exploring new technologies,especially within the React and React Native ecosystems.<br>- 🚀 I enjoy transforming ideas into interactive, user-friendly interfaces and writing clean, maintainable code.<br>- 📚 I'm continuously improving my skills in modern frontend tools such as React, React Native (Expo), TypeScript, Tailwind CSS, Redux Toolkit, and React Query.<br>- 🌱 Currently, I’m working on real-world projects to strengthen my portfolio and deepen my understanding of scalable frontend architectures.<br>- 🤝 I'm always open to collaborating on interesting projects or internship opportunities to grow as a developer.
 
 
 ## 🌐 Socials:
