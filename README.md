@@ -17,7 +17,7 @@
 # ✨ GitHub Profile Overview
 ![](https://github-readme-stats.vercel.app/api?username=NadaMohamedShoukry&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NadaMohamedShoukry&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadaMohamedShoukry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadaMohamedShoukry&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
